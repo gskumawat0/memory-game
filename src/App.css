@@ -1,0 +1,33 @@
+
+
+.main{
+  padding: 40px;
+  box-sizing: border-box;
+  background: linear-gradient(90deg, #8E2DE2, #4A00E0);
+}
+
+input, button{
+  padding: 7px;
+  margin: 15px;
+  border-radius: 5px;
+  outline: none;
+  width: 500px;
+  border-bottom: 2px solid gray;
+  border-right: 2px solid gray;
+}
+.todo h1{
+  width: 500px;
+  padding: 7px;
+  margin: 15px;
+}
+.todo ul{
+  width: 500px;
+  margin-left: 30px;
+}
+
+li {
+  border-bottom: 2px solid gray;
+  margin: 5px;
+  padding: 10px 10px 5px;
+  color: white;
+}
