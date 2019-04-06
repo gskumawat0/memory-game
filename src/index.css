@@ -7,9 +7,7 @@ body {
 #root {
   margin: auto;
   display: flex;
-  flex-direction: row;
+  flex-direction: column;
   justify-content: center;
   align-items: center;
-  max-height:640px;
-  max-width:640px;
 }
